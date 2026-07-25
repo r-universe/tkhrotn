@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "multiflexscan"]
+	path = multiflexscan
+	url = https://github.com/tkhrotn/multiflexscan
 [submodule "rflexscan"]
 	path = rflexscan
 	url = https://github.com/tkhrotn/rflexscan
